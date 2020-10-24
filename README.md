@@ -1,1 +1,2 @@
-# Hey there (0)[]\(0)
+# Welcome
+Programming is kinda cool 
